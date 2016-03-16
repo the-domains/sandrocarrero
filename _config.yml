@@ -1,0 +1,28 @@
+name: sandrocarrero
+favicon: null
+layout_spectrum: 0.7210425497032702
+typography_spectrum: 0.4938638189341873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3266341460403055
+  lightness: 0.268263834528625
+  saturation: 0.6285625593736768
+  rhythmicContrast: 0.9258231821004301
+purpose: []
